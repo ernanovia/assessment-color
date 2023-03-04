@@ -123,7 +123,7 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "https://c6b2d1fa-3e03-4f28-95b0-ba1829eede61.mock.pstmn.io/color",
+					"raw": "https://qatest.free.beeceptor.com/qa/api/web",
 					"protocol": "https",
 					"host": [
 						"c6b2d1fa-3e03-4f28-95b0-ba1829eede61",
